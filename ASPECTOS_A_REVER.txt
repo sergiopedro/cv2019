@@ -1,0 +1,38 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ SASS ////////////////////////////////////
+
+- Estou com dificuldade em utilizar variáveis. 
+
+ 1- Criei o ficheiro variables, onde criei as variáveis  a utilizar. 
+
+ 2 - Criei o ficheiro de @import (style.scss), onde coloquei o variables em 1º lugar.
+
+ PROBLEMA: Não consigo utilizar as variáveis em obter um erro na consola. Exemplo, sempre que substituo uma cor pela respectiva variável, obtenho um erro.
+
+ Podes dar uma vista de olhos, por favor?
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ CÓDIGO NO GERAL ////////////////////////////////////
+
+ Gostaria que, quando possível, desses uma vista de olhos no código, de modo a ver se está bem estruturado.
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ MEDIA QUERIES ////////////////////////////////////
+
+Já utilizei media queries na 1ª página, mas estou a a aguardar pelo workshop e ter o website um pouco mais avançado para as aplicar melhor.
+Não ligues muito a esta parte, no entanto, se algo do que estiver feito, estiver mal, agradeço dicas. :).
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ICONES ////////////////////////////////////
+
+ Qual o  melhor sítio para ir buscar icones? por exemplo: Font Awesome?
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ BOOTSTRAP ////////////////////////////////////
+
+ Quando se utiliza bootstrap temos de linkar para o cmd no head. Quando faço isto, o website é sobreposto por estilos do bootstrap. 
+
+ Qual a melhor forma de ultrapassar isto?
+
+
+
+  Para já, julgo que seja só isto. Obrigado pela ajuda.
+
